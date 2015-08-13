@@ -1,6 +1,6 @@
 minecraft:
   build: .
   volumes:
-    - ./data:/data
+    - .:/data
   ports:
     - "25565:25565"
