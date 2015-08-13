@@ -1,0 +1,258 @@
+LegacyJavaFixer:
+  version: 1.0
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/legacyjavafixer/legacyjavafixer-v1.0.zip
+      extract_to: .
+
+BuildCraft:
+  version: 4.2.2
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/buildcraft/buildcraft-v4.2.2.zip
+      extract_to: .
+
+
+ChickenChunks:
+  version: 1.3.3.3
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/chickenchunks/chickenchunks-v1.3.3.3.zip
+      extract_to: .
+
+CodeChickenCore:
+  version: 0.9.0.7
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/codechickencore/codechickencore-v0.9.0.7.zip
+      extract_to: .
+
+ComputerCraft:
+  version: 1.58
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/computercraft/computercraft-v1.58.zip
+      extract_to: .
+
+CoFH Core:
+  version: 2.0.0.5
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/cofhcore/cofhcore-v2.0.0.5.zip
+      extract_to: .
+
+Dimensional Anchors:
+  version: 57.1.95
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/dimanchor/dimanchor-v57.1.95.zip
+      extract_to: .
+
+Equivalent Exchange 3:
+  version: 0.1.140
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/ee3/ee3-v0.1.140.zip
+      extract_to: .
+
+EnderStorage:
+  version: 1.4.3.5
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/enderstorage/enderstorage-v1.4.3.5.zip
+      extract_to: .
+
+
+Immibis Core:
+  version: 57.1.94
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/immibiscore/immibiscore-v57.1.94.zip
+      extract_to: .
+
+Inventory Tweaks:
+  version: 1.56b77
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/inventorytweaks/inventorytweaks-v1.56b77.zip
+      extract_to: .
+
+Iron Chests:
+  version: 5.4.1.697
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/ironchests/ironchests-v5.4.1.697.zip
+      extract_to: .
+
+MineFactory Reloaded:
+  version: 2.7.8-482
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/mfr/mfr-v2.7.8-482.zip
+      extract_to: .
+
+Mystcraft:
+  version: 0.10.12.01
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/mystcraft/mystcraft-v0.10.12.01.zip
+      extract_to: .
+
+Not Enough Items:
+  version: 1.6.1.8
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/nei/nei-v1.6.1.8.zip
+      extract_to: .
+    -
+      url: http://chickenbones.net/maven/codechicken/NotEnoughItems/1.6.4-1.6.1.8/NotEnoughItems-1.6.4-1.6.1.8-universal.jar
+
+"Not Enough Items: Plugins":
+  version: 1.1.0.6
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/nei-plugins/nei-plugins-v1.1.0.6.zip
+      extract_to: .
+
+Powercrystals Core:
+  version: 1.1.8.9
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/powercrystalscore/powercrystalscore-v1.1.8.9.zip
+      extract_to: .
+
+Thermal Expansion:
+  version: 3.0.0.6
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/thermalexpansion/thermalexpansion-v3.0.0.6.zip
+      extract_to: .
+
+Applied Energistics:
+  version: 14-finale3
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/applied-energistics/applied-energistics-v14-finale3.zip
+      extract_to: .
+
+Backpacks:
+  version: 1.28.37
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/backpacks/backpacks-v1.28.37.zip
+      extract_to: .
+
+bspkrs Core:
+  version: 5.3
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/bspkrscore/bspkrscore-v5.3.zip
+      extract_to: .
+
+Treecapitator:
+  version: 1.6.4.r09
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/treecapitator/treecapitator-v1.6.4.r09.zip
+      extract_to: .
+
+Greg's Lighting:
+  version: 1.9.1
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/gregslighting/gregslighting-v1.9.1.zip
+      extract_to: .
+
+qCraft:
+  version: 1.1
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/qcraft/qcraft-v1.1.zip
+      extract_to: .
+
+ue-core:
+  version: 3.1.0.66
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/ue-core/ue-core-v3.1.0.66.zip
+      extract_to: .
+
+Waila:
+  version: 1.5.2a
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/waila/waila-v1.5.2a.zip
+      extract_to: .
+
+Project Bench:
+  version: 1.8.0
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/projectbench/projectbench-v1.8.0.zip
+      extract_to: .
+
+CalclaviaCore:
+  version: 1.2.0.63
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/calc-core/calc-core-v1.2.0.299.zip
+      extract_to: .
+
+Tekkit Configs:
+  version: 1.2.9d
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/z-tekkitmain-configs/z-tekkitmain-configs-v1.2.9d.zip
+      extract_to: .
+
+Balkon's WeaponMod:
+  version: 1.13.6
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/balkonsweaponmod/balkonsweaponmod-v1.13.zip
+      extract_to: .
+    -
+      url: http://addons.curse.cursecdn.com/files/2203/182/WeaponMod v1.13.6.zip
+    -
+      url: http://dl.dropbox.com/u/31316462/WeaponMod.zip
+
+Forge Multipart:
+  version: 1.0.0.250
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/forgemultipart/forgemultipart-v1.0.0.250.zip
+      extract_to: .
+
+"Project: Red":
+  version: 4.3.5.32
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/projectred/projectred-v4.3.5.32.zip
+      extract_to: .
+
+ExtraUtils:
+  version: 1.0.2
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/extrautils/extrautils-v1.0.2.zip
+      extract_to: .
+
+AnimationAPI:
+  version: 1.1.2
+  mirrors:
+    -
+      url: http://arruda.blog.br/.mine_mods/AnimationAPIv1.1.2mc1.6.4.zip
+
+Ars Magica 2:
+  version: 1.2.0.022
+  mirrors:
+    -
+      url:  http://arruda.blog.br/.mine_mods/AM2_1.2.0.022.zip
+      extract_to: .
+
+RottenFleshToLeather:
+  version: 1.5.1
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/flesh2leather/flesh2leather-v1.5.1.zip
+      extract_to: .

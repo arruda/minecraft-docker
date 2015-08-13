@@ -1,0 +1,6 @@
+Rei's Minimap:
+  version: 3.4_01-164
+  mirrors:
+    -
+      url: http://mirror.technicpack.net/Technic/mods/reisminimap/reisminimap-v3.4_01-164.zip
+      extract_to: .
