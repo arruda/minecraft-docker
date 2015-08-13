@@ -1,0 +1,6 @@
+minecraft:
+  build: .
+  volumes:
+    - ./data:/data
+  ports:
+    - "25565:25565"
